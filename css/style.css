@@ -67,6 +67,7 @@ header li a:hover {
 /** top-cover **/
 .top-cover {
 	background-image: url(../img/TopCover.png);
+	background-size: cover;
 	padding: 30vh 0;
 	color: #fff;
 }
