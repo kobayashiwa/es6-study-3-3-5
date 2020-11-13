@@ -420,10 +420,3 @@ h4 {
 .performance-box li:last-child {
 	border-bottom: none;
 }
-.performance-box h3 {
-	display: flex;
-	justify-content: space-between;
-}
-.performance {
-	color: #E44C6F;
-}
