@@ -427,14 +427,3 @@ h4 {
 .performance {
 	color: #E44C6F;
 }
-.performance span {
-	font-size: 56px;
-}
-
-/** worry **/
-.voice {
-	align-items: flex-start;
-	margin-bottom: 16px;
-	width: fit-content;
-	max-width: 1160px;
-}
