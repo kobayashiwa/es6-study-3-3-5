@@ -438,10 +438,3 @@ h4 {
 	width: fit-content;
 	max-width: 1160px;
 }
-.avatar {
-	width: 48px;
-	margin-right: 16px;
-}
-.avatar img {
-	width: 100%;
-}
