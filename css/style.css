@@ -24,7 +24,6 @@ body {
 }
 p {
 	line-height: 180%;
-	text-align: justify;
 }
 a {
 	text-decoration: none;
@@ -113,7 +112,10 @@ header li a:hover {
 /** main-menu **/
 .main-menu {
 	padding: 200px 0;
-} 
+}
+.text-blc {
+	text-align: center;
+}
 .menu-cover {
 	max-width: 640px;
 }
@@ -290,27 +292,4 @@ h1 {
 }
 h1 span br {
 	display: none;
-}
-h2 {
-	font-size: 48px;
-	line-height: 140%;
-}
-.solution h2 {
-	font-size: 36px;
-	margin-bottom: 60px;
-}
-.solution-list h2, .top h2 span {
-	font-size: 24px;
-}
-.enter-top h2 {
-	font-size: 20px;
-	line-height: 160%;
-	text-align: left;
-	margin-top: 24px;
-}
-.price h2, .introduction h2 {
-	font-size: 24px;
-	color: #E44C6F;
-	margin-bottom: 24px;
-	text-align: center;
 }
