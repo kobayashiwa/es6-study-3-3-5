@@ -129,6 +129,7 @@ header li a:hover {
 .text-blc {
 	text-align: center;
 	max-width: 648px;
+	padding: 0 5%;
 }
 .menu-cover {
 	max-width: 640px;
