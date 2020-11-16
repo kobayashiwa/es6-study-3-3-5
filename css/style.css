@@ -114,7 +114,12 @@ header li a:hover {
 .main-menu {
 	padding: 200px 0;
 } 
-
+.menu-cover {
+	max-width: 640px;
+}
+.menu-cover img {
+	width: 100%;
+}
 
 
 
@@ -328,26 +333,4 @@ h3 {
 .function h3 {
 	font-size: 16px;
 	padding: 16px 16px 16px 24px;
-}
-h4 {
-	font-size: 24px;
-	line-height: 140%;
-}
-.heading p {
-	font-size: 18px;
-	text-align: center;
-}
-
-/** top **/
-.top {
-	margin: 0 auto;
-}
-.smb-top {
-	text-align: center;
-}
-.smb-top .cover {
-	margin: 0 auto;
-	width: 100%;
-	position: relative;
-	z-index: 996;	
 }
