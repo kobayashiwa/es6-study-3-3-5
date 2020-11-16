@@ -113,6 +113,9 @@ header li a:hover {
 .main-menu {
 	padding: 200px 0;
 }
+.main-menu .container {
+	justify-content:space-between;
+}
 .text-blc {
 	text-align: center;
 }
@@ -251,24 +254,4 @@ footer li a:hover{
 	margin: 40px 0 24px 0;
 	padding: 12px 56px;
 	box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
-}
-.btnWrap {
-	text-align: center;
-}
-.btnWrap div {
-	font-size: 18px;
-}
-.btn-page {
-	font-size: 24px;
-	margin: 16px 0;
-	padding: 16px 180px;
-	box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
-}
-.text-link {
-	font-size: 14px;
-	color: #E44C6F;
-	text-decoration: underline;
-}
-.text-link:hover {
-	text-decoration: none;
 }
