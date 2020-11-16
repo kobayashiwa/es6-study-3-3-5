@@ -121,6 +121,11 @@ header li a:hover {
 .main-menu .container {
 	justify-content:space-between;
 }
+.main-menu h3 {
+	font-size: 72px;
+	font-weight: 300;
+	color: #4A4A4A;
+}
 .text-blc {
 	text-align: center;
 }
@@ -215,24 +220,3 @@ nav li a {
 	padding: 10px 16px;
 	border-radius: 4px;
 }
-nav li a:hover {
-	background: rgba(20, 53, 60, 0.05);
-}
-
-/** footer **/
-footer {
-	font-size: 14px;
-	font-weight: normal;
-}
-footer ul {
-	margin-left: -40px;
-	margin-bottom: 40px;
-}
-footer li {
-	padding-left: 40px;
-}
-footer li a:hover{
-	text-decoration: underline;
-}
-
-
