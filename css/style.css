@@ -171,22 +171,3 @@ header li a:hover {
 	left: 50vw;
 	bottom: -50px;
 }
-.textBox {
-	width: 40%;
-	padding: 0 40px;
-}
-.textBox h3 {
-	padding: 10px 0 24px 0;
-}
-.screenBox {
-	width: 50%;
-	padding: 0 16px;
-}
-.screenBox img {
-	width: 100%;	
-}
-.notes {
-	padding-top: 16px;
-	font-size: 12px;
-	font-weight: normal;
-}
