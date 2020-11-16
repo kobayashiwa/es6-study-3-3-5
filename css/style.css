@@ -131,6 +131,10 @@ header li a:hover {
 	max-width: 648px;
 	padding: 0 5%;
 }
+.text-blc .taste {
+	font-size: 24px;
+	color: #E0931E;
+}
 .menu-cover {
 	max-width: 640px;
 }
