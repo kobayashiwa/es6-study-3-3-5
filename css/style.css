@@ -190,33 +190,3 @@ header li a:hover {
 	font-size: 12px;
 	font-weight: normal;
 }
-
-/** scroll **/
-.scroll {
-	position: fixed;
-	width: 80px;
-	z-index: 1000;
-    top: 45vh;
-    left: 40px;
-}
-.scroll img {
-	text-align: center;
-}
-
-/** header **/
-
-nav {
-	max-width: 1320px;
-	margin: 0 auto;
-	padding: 16px 80px;
-	justify-content: space-between;
-}
-nav li {
-	padding-left: 8px;
-}
-nav li a {
-	font-size: 14px;
-	display: inline-block;
-	padding: 10px 16px;
-	border-radius: 4px;
-}
