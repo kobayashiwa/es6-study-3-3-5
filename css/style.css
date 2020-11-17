@@ -117,6 +117,7 @@ header li a:hover {
 /** main-menu **/
 .main-menu {
 	padding: 200px 0;
+	background: #F2F2F2;
 }
 .main-menu .container {
 	justify-content:space-between;
@@ -261,12 +262,12 @@ header li a:hover {
 }
 .menu-cover {
 	max-width: 640px;
+	position: relative;
 }
 .menu-cover img {
 	width: 100%;
+	box-shadow: 0 0 0 10px #fff, 0 6px 34px 0 rgba(0, 0, 0, 0.1);;
 }
-
-
 
 
 
