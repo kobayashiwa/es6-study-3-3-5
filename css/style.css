@@ -147,6 +147,8 @@ header li a:hover {
 .price {
 	margin-top: 24px;
 	padding: 24px 0;
+	font-size: 16px;
+	color: #66665E;
 }
 .price h4 {
 	font-size: 30px;
