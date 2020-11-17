@@ -143,6 +143,9 @@ header li a:hover {
 	font-size: 24px;
 	color: #E0931E;
 }
+.price {
+	margin-top: 24px;
+}
 .menu-cover {
 	max-width: 640px;
 }
