@@ -187,10 +187,14 @@ header li a:hover {
 	color: #7D7D7D;
 }
 .chef-cover {
-	width: 116px;
+	width: 112px;
+
 }
 .chef-cover img {
 	width: 100%;
+	border-radius: 50%;
+	box-shadow: 0 0 0 4px #fff, 0 0 0 6px #E0931E;
+	
 }
 .menu-cover {
 	max-width: 640px;
