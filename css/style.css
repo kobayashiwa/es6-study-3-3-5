@@ -178,6 +178,9 @@ header li a:hover {
 	font-weight: 300;
 	color: #7D7D7D;
 }
+.chef {
+	margin-top: 40px;
+}
 .menu-cover {
 	max-width: 640px;
 }
