@@ -126,6 +126,14 @@ header li a:hover {
 	font-weight: 300;
 	color: #4A4A4A;
 }
+.main-menu ul {
+	margin-top: 48px;
+}
+.main-menu li {
+	font-size: 18px;
+	color: #66665E;
+	line-height: 180%;
+}
 .text-blc {
 	text-align: center;
 	max-width: 648px;
