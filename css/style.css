@@ -188,13 +188,14 @@ header li a:hover {
 }
 .chef-detail {
 	position: relative;
+	margin-top: -40px;
 }
 .chef-detail h5 {
 	font-size: 24px;
 	font-weight: 300;
 	color: #7b7b7b;
 	position: relative;
-	top: 48px;
+	top:  90px;
 }
 .name-left {
 	display: inline-block;
