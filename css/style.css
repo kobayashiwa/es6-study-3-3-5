@@ -189,6 +189,18 @@ header li a:hover {
 .chef-detail {
 	position: relative;
 }
+.chef-detail h5 {
+	position: relative;
+	top: 48px;
+}
+.name-left {
+	display: inline-block;
+	padding-right: 62px;
+}
+.name-right {
+	display: inline-block;
+	padding-left: 62px;
+}
 .chef-cover {
 	width: 112px;
 	position: relative;
