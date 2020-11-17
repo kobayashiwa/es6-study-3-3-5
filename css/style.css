@@ -149,6 +149,29 @@ header li a:hover {
 	padding: 24px 0;
 	font-size: 16px;
 	color: #66665E;
+	position: relative;
+}
+.price::before {
+	content:"";
+	display:block;
+	width:240px;
+	height:1px;
+	background-color:#E0931E;
+	position:absolute;
+	top:0;
+	left:50%;
+	transform: translate(-50%, 0);
+}
+.price::after {
+	content:"";
+	display:block;
+	width:240px;
+	height:1px;
+	background-color:#E0931E;
+	position:absolute;
+	bottom:0;
+	left:50%;
+	transform: translate(-50%, 0);
 }
 .price h4 {
 	font-size: 30px;
