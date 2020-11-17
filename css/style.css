@@ -146,6 +146,7 @@ header li a:hover {
 }
 .price {
 	margin-top: 24px;
+	padding: 24px 0;
 }
 .menu-cover {
 	max-width: 640px;
